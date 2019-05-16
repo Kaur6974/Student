@@ -10,23 +10,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author sidhu376
  */
 public class Student {
-
-    /**
-     * @return the num
-     */
-    public int getNum() {
-        return num;
-    }
-
-    /**
-     * @param num the num to set
-     */
-    public void setNum(int num) {
-        this.num = num;
-    }
         
     private String name;
-    private int num;
  
     /**
      * Get the value of name
