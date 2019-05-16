@@ -10,9 +10,9 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author sidhu376
  */
 public class Student {
-        
+    
     private String name;
- 
+
     /**
      * Get the value of name
      *
